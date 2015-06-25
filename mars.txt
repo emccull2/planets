@@ -1,5 +1,3 @@
 This is some stuff about Mars! Mars is fantastic. And it has robots.
 
-Here is an updated line in this file about moons.
-
-Here we name the moons Phobos and Deimos.
+Here is an updated line in this file.
